@@ -1,1 +1,2 @@
 This is created in second branch to test fetch.
+git pull master origin
